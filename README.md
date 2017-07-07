@@ -11,8 +11,8 @@ an independent fork of Sonarr reworked for movies
 * [Website](https://radarr.video/)
 * [Reddit](https://www.reddit.com/r/radarr/)
 * [GitHub](https://github.com/Radarr/Radarr)
-* ### Pulsarr
-  * chrome plugin for adding movies from IMDB to Radarr
+### Pulsarr
+  chrome plugin for adding movies from IMDB to Radarr
   * [GitHub](https://github.com/roboticsound/Pulsarr)
 
 ## Lidarr - _**IN DEVLOPMENT**_
