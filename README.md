@@ -17,9 +17,9 @@ an independent fork of Sonarr reworked for movies
 
 ## Lidarr - _**IN DEVLOPMENT**_
 an independent fork of Sonarr reworked for music
-* [Website](https://radarr.video/)
-* [Reddit](https://www.reddit.com/r/radarr/)
-* [GitHub](https://github.com/Radarr/Radarr)
+* [Discord](https://discord.gg/8Y7rDc9)
+* [Reddit](https://www.reddit.com/r/Lidarr/)
+* [GitHub](https://github.com/Lidarr/Lidarr)
 
 ## Comandarr - _**IN DEVLOPMENT**_
 an independent fork of Sonarr reworked for movies 
