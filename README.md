@@ -21,8 +21,8 @@ an independent fork of Sonarr reworked for music
 * [Reddit](https://www.reddit.com/r/Lidarr/)
 * [GitHub](https://github.com/Lidarr/Lidarr)
 
-## Comandarr - _**IN DEVLOPMENT**_
-an independent fork of Sonarr reworked for movies 
+## Comandarr - _**DEVLOPMENT ON HOLD**_
+Comandarr is a bot that will interact with Sonarr, Radarr and Lidarr with Google Assistant, Slack and more. 
 * [Website](https://comandarr.github.io/)
 * [Reddit](https://www.reddit.com/r/Comandarr/)
 * [GitHub](https://github.com/Comandarr/Comandarr)
